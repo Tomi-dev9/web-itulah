@@ -117,10 +117,10 @@ const Features = () => (
           src="videos/feature-1.mp4"
           title={
             <>
-              radia<b>n</b>t
+              Bel<b>um</b>ada
             </>
           }
-          description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
+          description="Sedang Mencari ide"
           isComingSoon
         />
       </BentoTilt>
@@ -131,10 +131,10 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                zig<b>m</b>a
+                Be<b>lum</b>ada
               </>
             }
-            description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
+            description="Sedang Mencari ide"
             isComingSoon
           />
         </BentoTilt>
@@ -144,10 +144,10 @@ const Features = () => (
             src="videos/feature-3.mp4"
             title={
               <>
-                n<b>e</b>xus
+                Bel<b>um</b>ada
               </>
             }
-            description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
+            description="Sedang Mencari ide"
             isComingSoon
           />
         </BentoTilt>
@@ -157,10 +157,10 @@ const Features = () => (
             src="videos/feature-4.mp4"
             title={
               <>
-                az<b>u</b>l
+                Bel<b>um</b>ada
               </>
             }
-            description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
+            description="Sedang Mencari ide"
             isComingSoon
           />
         </BentoTilt>
